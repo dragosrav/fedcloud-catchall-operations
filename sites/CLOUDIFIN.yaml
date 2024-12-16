@@ -8,3 +8,33 @@ vos:
   - name: ops
     auth:
       project_id: 21440821c8904e5b8ce5ec101a1ca879
+- name: eli-np.eu
+    auth:
+      project_id: 160b8603ecfc4834bb4802109f25c999
+  - name: fedcloud.egi.eu
+    auth:
+      project_id: 245cdfdce0c84227b9b60d247618f635
+  - name: ronbio.ro
+    auth:
+      project_id: 2f257f6324a040f7b0d6ba66eebd72e7
+  - name: nanocloud.ro
+    auth:
+      project_id: 6dad7d58280a419c829916fd60ae8be8
+  - name: perla-pv.ro
+    auth:
+      project_id: 7880c786b6574c73b73349a8c7f8a665
+  - name: vo.qc-md.eli-np.eu
+    auth:
+      project_id: 8df74454ef654fb382f4a6b3091afc7c
+  - name: egi-datahub
+    auth:
+      project_id: b6e645e482f947eb911564c7b4b4db2d
+  - name: vo.access.egi.eu
+    auth:
+      project_id: b77f9852f917497994edd5b7507bdce9
+  - name: benchmark.terradue.com
+    auth:
+      project_id: c9aedbfbf1154d3b9a0db9b0d63f7d85
+  - name: gridifin.ro
+    auth:
+      project_id: f66088065ba4435fbd90c9ad8f4a3f9b
